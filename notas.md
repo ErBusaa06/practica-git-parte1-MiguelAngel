@@ -6,3 +6,9 @@
 - Inglés
 - Programación de Servicios y Procesos(PSP)
 - Proyecto Intermodular (PI)
+
+# Tareas pendientes
+
+- Repasar para el exámen de Programación
+- Hacer el trabajo de Git
+- Comenzar el Brief del PI
