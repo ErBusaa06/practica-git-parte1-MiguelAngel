@@ -1,4 +1,4 @@
-# Mis asignaturas
+# Mis asignaturas (rama main)
 
 - Desarrollo de Interfaces(DII)
 - Programación Multimedia y dispositivos móviles (PMM)
