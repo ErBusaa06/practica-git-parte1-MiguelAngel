@@ -1,4 +1,5 @@
-# Mis asignaturas (rama main)
+
+# Mis asignaturas (rama main + conflicto resuelto)
 
 - Desarrollo de Interfaces(DII)
 - Programación Multimedia y dispositivos móviles (PMM)
