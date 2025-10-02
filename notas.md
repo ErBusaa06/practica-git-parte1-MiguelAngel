@@ -13,3 +13,4 @@
 - Repasar para el exámen de Programación
 - Hacer el trabajo de Git
 - Comenzar el Brief del PI
+- Hacer el curriculum vitae en IPE
