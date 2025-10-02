@@ -1,4 +1,3 @@
-# EJERCICIOS PARTE 2 – Git (Resumido)
 
 Repositorio: [https://github.com/ErBusaa06/practica-git-parte1-MiguelAngel]
 
